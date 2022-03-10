@@ -1,4 +1,4 @@
-# CV_Ricoh
+# ati_sensor
 Package for publishing ATI Force Torque sensor measurements to ROS.
 
 1) upgrade your cmake to 3.11
